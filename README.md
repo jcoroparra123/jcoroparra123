@@ -1,5 +1,5 @@
 hola soy juan 
-![Alt](https://img.asmedia.epimg.net/resizer/CaE7_mEOZY44kX0U16HKfdPAfb8=/1472x1104/filters:focal(1344x246:1354x256)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DETH5T5Z54WCFJ4AH7EV6ACU2A.jpg)
+![Alt](blob:https://web.whatsapp.com/f70b763e-d6b5-40fe-b60d-af77f2cfe040)
 
 juan coronado
 17 años
